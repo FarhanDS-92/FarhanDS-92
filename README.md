@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">•✨ Creating bugs since 2022<br>•📚 I'm currently learning Typescript, MySQL, TailWind/StyleX, Python, HTMX<br><br>Hey, I'm Farhan D. Siddiq, a coding sorcerer currently brewing up Next.js potions with Prisma and PostgresSQL. When I'm not wielding code, catch me slaying dragons in gaming realms, jet-setting to new places, binge-watching anime, or serenading with my violin. Let's weave some digital spells together</p>
+<p align="center">•✨ Creating bugs since 2022<br>•📚 I'm currently learning Typescript, MySQL, TailWind/StyleX, Python, HTMX<br><br>Howdy! I'm Farhan D. Siddiq, on an exhilarating journey transitioning from the world of finance to the enchanting realm of tech. Currently, I'm deeply immersed in crafting digital wonders using Next.js, Prisma, and PostgresSQL. Beyond the screen, you'll find me embracing new coding challenges, journeying through gaming realms, exploring the globe, indulging in anime marathons, and serenading the cosmos with my violin. Let's join forces and conjure some digital magic together!</p>
 
 ###
 
